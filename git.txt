@@ -1,3 +1,4 @@
+--------------------------------------------------AUTHOR : UMANG TYAGI------------------------------------------------------------------------------
 1)git push origin local branch name to be pushed(pointer can be present at any branch) : remote branch name
 
 2)git push origin local branch name (pointer should present at the branch to be pushed)
