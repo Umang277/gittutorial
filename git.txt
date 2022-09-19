@@ -1,0 +1,37 @@
+1)git push origin local branch name to be pushed(pointer can be present at any branch) : remote branch name
+
+2)git push origin local branch name (pointer should present at the branch to be pushed)
+
+3)git checkout branch name (to switch branch)
+
+4)git add -A(add all) or git add file name
+
+5)git status (to track changes or modified file)
+
+6)git log (to see all commit)
+
+7)git remote add origin "link"
+
+8)git remote -v (to see all remote)
+
+9)git config --global user.name "Mona Lisa" to set user name 
+
+10)git config --global user.name to see user name
+
+11)git clone --branch dev_Neelesh https://garima9233@bitbucket.org/rapipaydev/push_recharge.git(to clone the specific branch)
+
+12)not a valid object error it means there is no master branch so you have to commit or add origin so that code goes to master branch or master created
+
+
+
+
+
+
+
+
+
+
+
+
+
+
